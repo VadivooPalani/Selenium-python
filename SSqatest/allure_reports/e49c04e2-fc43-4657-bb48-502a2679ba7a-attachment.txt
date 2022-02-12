@@ -1,0 +1,2 @@
+browser setup chrome
+Base URL :http://demostore.supersqa.com
